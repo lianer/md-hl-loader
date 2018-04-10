@@ -1,6 +1,6 @@
 # md-hl-loader
 
-> Markdown => HTML
+> Markdown + Highlight.js => HTML
 
 ## Install
 
