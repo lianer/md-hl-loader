@@ -1,9 +1,24 @@
 {
   "name": "md-hl-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "markdown-it + highlight",
   "main": "lib/index.js",
-  "author": "lianer<lianer@live.cn>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lianer/md-hl-loader.git"
+  },
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "webpack",
+    "loader",
+    "highlight.js"
+  ],
+  "author": "lianer <lianer@live.cn>",
+  "homepage": "https://github.com/lianer/md-hl-loader",
+  "bugs": {
+    "url": "https://github.com/lianer/md-hl-loader/issues"
+  },
   "license": "ISC",
   "dependencies": {
     "highlight.js": "^9.12.0",
