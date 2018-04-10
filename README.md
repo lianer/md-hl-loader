@@ -42,13 +42,13 @@ rules: [
 
 ## Usage
 
-./article.md
+article.md
 
 ```md
 # Test
 ```
 
-./app.js
+app.js
 
 ```js
 import article from './article.md'
