@@ -33,7 +33,10 @@ rules: [
     loader: 'md-hl-loader',
     // https://github.com/markdown-it/markdown-it#init-with-presets-and-options
     options: {
-      html: true
+      markdownItOptions: {
+        html: true
+      },
+      compileImages: true // compile images
     }
   }
 ]
